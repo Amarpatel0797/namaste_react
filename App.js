@@ -1,7 +1,7 @@
 const parent = React.createElement(
     "div",
     {id:"child"},
-    [React.createElement("h1",{},"I am a H1"),React.createElement("h2",{},"I am a H2")]
+    [React.createElement("h1",{},"I am a H1"),React.createElement("h2",{},"I am a H2")]  
 )
 
 
